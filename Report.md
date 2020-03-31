@@ -19,4 +19,4 @@
 
 Пример можно посмотреть ниже на скриншоте.
 
-![Image alt](https://github.com/juliaCodeGirl/java-hm-2.2/blob/master/long.jpg)
+![Image alt](https://github.com/juliaCodeGirl/java-hm-2.1/blob/master/long.jpg)
